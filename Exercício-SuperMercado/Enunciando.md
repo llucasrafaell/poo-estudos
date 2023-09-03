@@ -1,2 +1,2 @@
-![Enunciado] (img/enunciado.png)
+![Enunciado](img/enunciado.png)
 
